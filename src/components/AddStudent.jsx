@@ -3,7 +3,8 @@ import NavBar from './NavBar'
 
 const AddStudent = () => {
   return (
-    <div><NavBar/>
+    <div>
+        <NavBar/>
 
         <center><h1>STUDENT REGISTRATION</h1></center>
         <br></br>
